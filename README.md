@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anuradha-bhaskar
 - 👀 I’m interested in AIML, Data science, Web dev👩🏻‍💻
 - 🌱 I’m currently learning machine learning and web dev
+- 📫 Reach me at : **anuradha.t.bhaskar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anuradha-bhaskar-153075277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-bhaskar-153075277" height="30" width="40" /></a>
