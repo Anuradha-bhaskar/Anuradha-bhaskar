@@ -1,17 +1,94 @@
-- 👋 Hi, I’m @Anuradha-bhaskar
-- 👀 I’m interested in AIML, Data science, Web dev👩🏻‍💻
-- 🌱 I’m currently learning machine learning and web dev
-- 📫 Reach me at : **anuradha.t.bhaskar@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anuradha-bhaskar-153075277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha-bhaskar-153075277" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<!---
-Anuradha-bhaskar/Anuradha-bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="left">Hi 👋! My name is Anuradha Bhaskar. Making machines learn.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuradha-bhaskar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuradha-bhaskar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+## 🛠 Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+</div>
+
+
+
+
+## 📫 Connect with Me
+
+<div align="left">
+ <a href="https://www.linkedin.com/in/anuradha-bhaskar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <img width="10" />
+  <a href="https://x.com/anurdhaaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+  </a>
+  <img width="10" />
+  <a href="https://discord.com/users/tech_cat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+  </a>
+  <img width="10" />
+  
+  <img width="10" />
+  <a href="https://www.instagram.com/abstract.of.muse" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
+</div>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anuradha-bhaskar/anuradha-bhaskar/output/snake.svg" alt="Snake animation" />
+
+###
