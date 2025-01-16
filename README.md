@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
@@ -39,6 +39,7 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="6" />
+  <br>
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
