@@ -89,6 +89,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anuradha-bhaskar/anuradha-bhaskar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Anuradha-bhaskar/Anuradha-bhaskar/output/snake.svg" alt="Snake animation" />
 
 ###
