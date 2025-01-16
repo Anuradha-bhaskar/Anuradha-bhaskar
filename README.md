@@ -14,7 +14,7 @@
 <img align="right" height="50" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-## 🛠 Skills
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
@@ -63,7 +63,7 @@
 
 
 
-## 📫 Connect with Me
+###
 
 <div align="left">
  <a href="https://www.linkedin.com/in/anuradha-bhaskar/" target="_blank">
@@ -86,7 +86,7 @@
 </div>
 
 
-
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Anuradha-bhaskar/Anuradha-bhaskar/output/snake.svg" alt="Snake animation" />
