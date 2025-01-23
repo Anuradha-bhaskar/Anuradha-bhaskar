@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋! My name is Anuradha Bhaskar. Making machines learn.</h2>
+<h2 align="left">Hi 👋! My name is Anuradha Bhaskar. I ❤️ Making machines learn.</h2>
 
 ###
 
