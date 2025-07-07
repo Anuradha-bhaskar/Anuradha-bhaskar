@@ -1,6 +1,6 @@
 
 
-<h2 align="left">👋 Hey, I'm Anuradha! I ♡ making machines learn. I enjoy turning messy ideas into smart, useful things. Always up for a challenge and a slice of pizza. 🍕💻</h2>
+<h2 align="left">👋 Hey, I'm Anuradha! I ♡ making machines learn.</h2>
 
 ###
 
