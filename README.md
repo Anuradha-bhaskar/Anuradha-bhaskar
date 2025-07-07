@@ -1,6 +1,6 @@
 
 
-<h2 align="left">👋 Hey, I'm Anuradha! I ♡ making machines learn.</h2>
+<h2 align="left">👋 Hey, I'm Anuradha!  I ❤️ making machines learn.</h2>
 
 ###
 
