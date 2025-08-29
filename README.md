@@ -15,7 +15,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/tech_cat)](https://discord.com/users/tech_cat)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anuradha.t.bhaskar@gmail.com)](mailto:anuradha.t.bhaskar@gmail.com)
 
-###
+
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Config File: `anuradha.yaml`.  
 
