@@ -1,4 +1,4 @@
-<h2> Hi, I'm Anuradha Bhaskar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Anuradha Bhaskar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h1>
 <img align='right' src="https://i.imgflip.com/65efzo.gif" width="150" height="150" >
 
 
@@ -15,11 +15,9 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/tech_cat)](https://discord.com/users/tech_cat)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anuradha.t.bhaskar@gmail.com)](mailto:anuradha.t.bhaskar@gmail.com)
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Config File: `anuradha.yaml`.  
+###
 
-
-
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Config File: `anuradha.yaml`.  
 
 ```yaml
 
