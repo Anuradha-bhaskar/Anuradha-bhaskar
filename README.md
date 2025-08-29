@@ -10,7 +10,7 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-bhaskar/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-bhaskar-153075277)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/anurdhaaa)](https://x.com/anurdhaaa)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/tech_cat)](https://discord.com/users/tech_cat)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anuradha.t.bhaskar@gmail.com)](mailto:anuradha.t.bhaskar@gmail.com)
